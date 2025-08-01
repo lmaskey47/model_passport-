@@ -73,7 +73,7 @@ les signatures pour prédiction
 🖥️ Étape 6 – Lancer l’interface utilisateur (à faire à chaque fois que tu veux détecter un passeport)
 
 
-
+ce placer dans le wokspace et taper : 
 python predict_passport.py
 Interface avec 4 boutons :
 Bouton	Fonction
