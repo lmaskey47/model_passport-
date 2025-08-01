@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.9001947641372681,
+    "bbox_normalized": {
+      "ymin": 0.5807041525840759,
+      "xmin": 0.3390327990055084,
+      "ymax": 0.6196871399879456,
+      "xmax": 0.547085165977478
+    },
+    "ocr_text": "surname, nom, apellids, t, armstrong",
+    "ocr_text_clean": "ellis armstrong"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.8820444345474243,
+    "bbox_normalized": {
+      "ymin": 0.6182597279548645,
+      "xmin": 0.33712896704673767,
+      "ymax": 0.6551952958106995,
+      "xmax": 0.5821081399917603
+    },
+    "ocr_text": "given, names, l, prenoms, anombres, danny",
+    "ocr_text_clean": "anombres danny"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.857581615447998,
+    "bbox_normalized": {
+      "ymin": 0.5483167171478271,
+      "xmin": 0.6577327251434326,
+      "ymax": 0.5937197208404541,
+      "xmax": 0.9928086996078491
+    },
+    "ocr_text": "passport, no, no, passeport, ino, l, du, pasapore, de, 273693832",
+    "ocr_text_clean": "273693832"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8506014347076416,
+    "bbox_normalized": {
+      "ymin": 0.8071953058242798,
+      "xmin": 0.33557212352752686,
+      "ymax": 0.8453035354614258,
+      "xmax": 0.7212109565734863
+    },
+    "ocr_text": "date, of, date, expiration, d, expiration, fecna, caducidac, l, de, 06, 1996, may",
+    "ocr_text_clean": "06 1996 may"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8414167165756226,
+    "bbox_normalized": {
+      "ymin": 0.694636344909668,
+      "xmin": 0.3406032621860504,
+      "ymax": 0.730583906173706,
+      "xmax": 0.7081446647644043
+    },
+    "ocr_text": "date, of, binth, date, de, e, fecha, naissance, de, nacimiento, 02, 1964, jul",
+    "ocr_text_clean": "02 1964 jul"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.8105757236480713,
+    "bbox_normalized": {
+      "ymin": 0.6562561392784119,
+      "xmin": 0.3454433083534241,
+      "ymax": 0.6973618865013123,
+      "xmax": 0.6952309012413025
+    },
+    "ocr_text": "lationality, inationalite, inacionalidad, united, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6109899282455444,
+    "bbox_normalized": {
+      "ymin": 0.7245597243309021,
+      "xmin": 0.7703943252563477,
+      "ymax": 0.7738561034202576,
+      "xmax": 0.9155476093292236
+    },
+    "ocr_text": "isexo, sex, l, sexe, m",
+    "ocr_text_clean": ""
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.8720328211784363,
+    "bbox_normalized": {
+      "ymin": 0.5781739354133606,
+      "xmin": 0.333652138710022,
+      "ymax": 0.6181055903434753,
+      "xmax": 0.5567925572395325
+    },
+    "ocr_text": "surname, nom, apellidos, smith",
+    "ocr_text_clean": "smith"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.8473706245422363,
+    "bbox_normalized": {
+      "ymin": 0.5491002798080444,
+      "xmin": 0.6568179726600647,
+      "ymax": 0.5944995880126953,
+      "xmax": 0.9934825301170349
+    },
+    "ocr_text": "asspont, no, l, no, passepot, du, ino, pasapore, de, 171679082",
+    "ocr_text_clean": "171679082"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8403144478797913,
+    "bbox_normalized": {
+      "ymin": 0.8070661425590515,
+      "xmin": 0.3313887417316437,
+      "ymax": 0.8461702466011047,
+      "xmax": 0.7230567932128906
+    },
+    "ocr_text": "date, of, date, expiration, d, expiration, l, fecha, de, caducidad, 1995, 01, feb",
+    "ocr_text_clean": "1995 01 feb"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8311669230461121,
+    "bbox_normalized": {
+      "ymin": 0.6972078680992126,
+      "xmin": 0.3395141661167145,
+      "ymax": 0.7340889573097229,
+      "xmax": 0.7107505798339844
+    },
+    "ocr_text": "date, birth, date, of, l, de, fecha, naissance, l, de, nacimiento, 07, 1972, jul",
+    "ocr_text_clean": "07 1972 jul"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.7945306301116943,
+    "bbox_normalized": {
+      "ymin": 0.6543488502502441,
+      "xmin": 0.3415879011154175,
+      "ymax": 0.6959748268127441,
+      "xmax": 0.7022621631622314
+    },
+    "ocr_text": "nationality, nationalite, d, inacionalidad, united, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.7463166117668152,
+    "bbox_normalized": {
+      "ymin": 0.6199424862861633,
+      "xmin": 0.3372790813446045,
+      "ymax": 0.6558460593223572,
+      "xmax": 0.5885101556777954
+    },
+    "ocr_text": "given, l, names, prenoms, e, nombres, jonathan",
+    "ocr_text_clean": "jonathan"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6163404583930969,
+    "bbox_normalized": {
+      "ymin": 0.7242639660835266,
+      "xmin": 0.7710360288619995,
+      "ymax": 0.7739763855934143,
+      "xmax": 0.9152956008911133
+    },
+    "ocr_text": "sex, l, sexe, lsexo, m",
+    "ocr_text_clean": ""
+  }
+]

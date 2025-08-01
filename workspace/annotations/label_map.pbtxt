@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: "data_of_birth"
+  display_name: "data_of_birth"
+}
+item {
+  id: 2
+  name: "date_of_expiration"
+  display_name: "date_of_expiration"
+}
+item {
+  id: 3
+  name: "document_number"
+  display_name: "document_number"
+}
+item {
+  id: 4
+  name: "names"
+  display_name: "names"
+}
+item {
+  id: 5
+  name: "nationality"
+  display_name: "nationality"
+}
+item {
+  id: 6
+  name: "place_of_birth"
+  display_name: "place_of_birth"
+}
+item {
+  id: 7
+  name: "sexe"
+  display_name: "sexe"
+}
+item {
+  id: 8
+  name: "surname"
+  display_name: "surname"
+}

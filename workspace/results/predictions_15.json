@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.9322484731674194,
+    "bbox_normalized": {
+      "ymin": 0.5798899531364441,
+      "xmin": 0.33839040994644165,
+      "ymax": 0.6192528605461121,
+      "xmax": 0.5500703454017639
+    },
+    "ocr_text": "surname, nom, t, apellidos, adams",
+    "ocr_text_clean": "adams"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.9121477603912354,
+    "bbox_normalized": {
+      "ymin": 0.6183695793151855,
+      "xmin": 0.3387008607387543,
+      "ymax": 0.6552256345748901,
+      "xmax": 0.5816894769668579
+    },
+    "ocr_text": "given, names, l, prenoms, nombres, a, paul",
+    "ocr_text_clean": "paul"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8565171360969543,
+    "bbox_normalized": {
+      "ymin": 0.8080571293830872,
+      "xmin": 0.3368328809738159,
+      "ymax": 0.8466807007789612,
+      "xmax": 0.7253612279891968
+    },
+    "ocr_text": "date, date, of, d, fecha, expiration, expiration, l, de, caducidad, 28, sep, 2013",
+    "ocr_text_clean": "28 sep 2013"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8497196435928345,
+    "bbox_normalized": {
+      "ymin": 0.6949740648269653,
+      "xmin": 0.34740233421325684,
+      "ymax": 0.7310909032821655,
+      "xmax": 0.7021310329437256
+    },
+    "ocr_text": "of, birth, date, ate, d, de, fecha, naissance, l, de, nacimiento, o, mar, 1981",
+    "ocr_text_clean": "mar 1981"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.847675085067749,
+    "bbox_normalized": {
+      "ymin": 0.5491127371788025,
+      "xmin": 0.6543998718261719,
+      "ymax": 0.5946360230445862,
+      "xmax": 0.994637131690979
+    },
+    "ocr_text": "sasspont, no, na, passepot, no, t, du, e, de, pasaporie, 90962647",
+    "ocr_text_clean": "90962647"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.797726571559906,
+    "bbox_normalized": {
+      "ymin": 0.6579602360725403,
+      "xmin": 0.3474760055541992,
+      "ymax": 0.6987505555152893,
+      "xmax": 0.6933057308197021
+    },
+    "ocr_text": "inationalite, ationality, inacionalidad, inited, states, of, america",
+    "ocr_text_clean": "inationalite ationality inited states america"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6353697180747986,
+    "bbox_normalized": {
+      "ymin": 0.7240977883338928,
+      "xmin": 0.7699865102767944,
+      "ymax": 0.7739288210868835,
+      "xmax": 0.9157310724258423
+    },
+    "ocr_text": "sex, sexe, sexo, t, m",
+    "ocr_text_clean": ""
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.923050582408905,
+    "bbox_normalized": {
+      "ymin": 0.5800601243972778,
+      "xmin": 0.33881044387817383,
+      "ymax": 0.6189413070678711,
+      "xmax": 0.5456324815750122
+    },
+    "ocr_text": "surname, nom, t, apellidos, dalton",
+    "ocr_text_clean": "dalton"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.9108905792236328,
+    "bbox_normalized": {
+      "ymin": 0.6192205548286438,
+      "xmin": 0.33819276094436646,
+      "ymax": 0.655325710773468,
+      "xmax": 0.5829868912696838
+    },
+    "ocr_text": "given, names, l, prenoms, nombres, l, tammy",
+    "ocr_text_clean": "amy"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8461506962776184,
+    "bbox_normalized": {
+      "ymin": 0.8075590133666992,
+      "xmin": 0.3361945152282715,
+      "ymax": 0.8461862802505493,
+      "xmax": 0.7220472097396851
+    },
+    "ocr_text": "date, of, date, fecha, expiration, dexpiration, l, de, caducidad, 07, apr, 2015",
+    "ocr_text_clean": "07 apr 2015"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.8341312408447266,
+    "bbox_normalized": {
+      "ymin": 0.548879861831665,
+      "xmin": 0.6559224128723145,
+      "ymax": 0.5944806337356567,
+      "xmax": 0.992495059967041
+    },
+    "ocr_text": "asspon, no, d, na, passeport, no, du, s, de, pasapore, 38605187",
+    "ocr_text_clean": "38605187"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.8117048144340515,
+    "bbox_normalized": {
+      "ymin": 0.6574851870536804,
+      "xmin": 0.3472321033477783,
+      "ymax": 0.6986492276191711,
+      "xmax": 0.6982885599136353
+    },
+    "ocr_text": "lationality, nationalite, l, inacionalidad, inited, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8025732636451721,
+    "bbox_normalized": {
+      "ymin": 0.7003241777420044,
+      "xmin": 0.3438945412635803,
+      "ymax": 0.7372461557388306,
+      "xmax": 0.7038549780845642
+    },
+    "ocr_text": "ale, or, dinn, date, de, naissance, crecha, de, nacimiento, 25, sep, 1970",
+    "ocr_text_clean": "25 sep 1970"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6726368069648743,
+    "bbox_normalized": {
+      "ymin": 0.7244997620582581,
+      "xmin": 0.7711656093597412,
+      "ymax": 0.7726858258247375,
+      "xmax": 0.914071798324585
+    },
+    "ocr_text": "sex, sexe, isexo, t, f",
+    "ocr_text_clean": ""
+  }
+]

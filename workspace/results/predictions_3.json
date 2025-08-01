@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.9271680116653442,
+    "bbox_normalized": {
+      "ymin": 0.5803676247596741,
+      "xmin": 0.3377408981323242,
+      "ymax": 0.6185505986213684,
+      "xmax": 0.5502215027809143
+    },
+    "ocr_text": "surname, nom, t, apellidos, miller",
+    "ocr_text_clean": "miller"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.8953391313552856,
+    "bbox_normalized": {
+      "ymin": 0.6182581782341003,
+      "xmin": 0.33612000942230225,
+      "ymax": 0.6560676693916321,
+      "xmax": 0.5862129926681519
+    },
+    "ocr_text": "given, names, l, prenoms, l, nombres, gilbert",
+    "ocr_text_clean": "albert"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8496081829071045,
+    "bbox_normalized": {
+      "ymin": 0.8072034120559692,
+      "xmin": 0.33343660831451416,
+      "ymax": 0.8458935022354126,
+      "xmax": 0.7239527702331543
+    },
+    "ocr_text": "date, of, date, fecha, expiration, d, expirationl, de, caducidad, 12, jul, 2023",
+    "ocr_text_clean": "12 jul 2023"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.845607340335846,
+    "bbox_normalized": {
+      "ymin": 0.5495232343673706,
+      "xmin": 0.6552920937538147,
+      "ymax": 0.5953751802444458,
+      "xmax": 0.9936936497688293
+    },
+    "ocr_text": "assport, no, na, passepot, l, du, ino, pasapore, de, 199373860",
+    "ocr_text_clean": "199373860"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.7928455471992493,
+    "bbox_normalized": {
+      "ymin": 0.6579427123069763,
+      "xmin": 0.3469332158565521,
+      "ymax": 0.698944628238678,
+      "xmax": 0.7017879486083984
+    },
+    "ocr_text": "nationalite, lationality, d, i, nacionalidad, united, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.7590082287788391,
+    "bbox_normalized": {
+      "ymin": 0.6999691724777222,
+      "xmin": 0.3425517678260803,
+      "ymax": 0.7376722097396851,
+      "xmax": 0.708575427532196
+    },
+    "ocr_text": "ale, or, dinn, l, date, de, trecha, de, naissance, nacimiento, 02, 1999, nov",
+    "ocr_text_clean": "02 1999 nov"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6283044219017029,
+    "bbox_normalized": {
+      "ymin": 0.724668025970459,
+      "xmin": 0.771600604057312,
+      "ymax": 0.7738217115402222,
+      "xmax": 0.9149564504623413
+    },
+    "ocr_text": "isexo, sex, isexe, m",
+    "ocr_text_clean": ""
+  }
+]

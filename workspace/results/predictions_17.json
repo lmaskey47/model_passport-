@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.9364563822746277,
+    "bbox_normalized": {
+      "ymin": 0.5793821215629578,
+      "xmin": 0.3379014730453491,
+      "ymax": 0.6185124516487122,
+      "xmax": 0.5516734719276428
+    },
+    "ocr_text": "surname, nom, apellidos, t, lopez",
+    "ocr_text_clean": "lopez"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.920111894607544,
+    "bbox_normalized": {
+      "ymin": 0.6194915175437927,
+      "xmin": 0.3410494327545166,
+      "ymax": 0.6577765345573425,
+      "xmax": 0.5800867080688477
+    },
+    "ocr_text": "given, names, l, prenoms, nombres, a, jason",
+    "ocr_text_clean": "jason"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.8499926924705505,
+    "bbox_normalized": {
+      "ymin": 0.5486816763877869,
+      "xmin": 0.6573083996772766,
+      "ymax": 0.5945475697517395,
+      "xmax": 0.9945898652076721
+    },
+    "ocr_text": "passport, no, no, passeport, ino, t, du, pasapore, de, 412643566",
+    "ocr_text_clean": "412643566"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8231478929519653,
+    "bbox_normalized": {
+      "ymin": 0.6983339190483093,
+      "xmin": 0.34524208307266235,
+      "ymax": 0.7346636652946472,
+      "xmax": 0.703895628452301
+    },
+    "ocr_text": "ate, binh, cuate, de, e, fecha, ot, naissance, de, nacimiento, 05, apr, 1995",
+    "ocr_text_clean": "oct 05 apr 1995"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.7960377931594849,
+    "bbox_normalized": {
+      "ymin": 0.6585872769355774,
+      "xmin": 0.34509772062301636,
+      "ymax": 0.699740469455719,
+      "xmax": 0.6946583390235901
+    },
+    "ocr_text": "lationality, nationalite, l, inacionalidad, united, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.7880653142929077,
+    "bbox_normalized": {
+      "ymin": 0.8091806769371033,
+      "xmin": 0.3333035707473755,
+      "ymax": 0.848626434803009,
+      "xmax": 0.7236065864562988
+    },
+    "ocr_text": "date, of, date, d, expirationl, fecha, expiration, de, caducidad, 21, aug, 2017",
+    "ocr_text_clean": "21 aug 2017"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.610977828502655,
+    "bbox_normalized": {
+      "ymin": 0.7244755625724792,
+      "xmin": 0.7706106305122375,
+      "ymax": 0.7735036015510559,
+      "xmax": 0.9154374003410339
+    },
+    "ocr_text": "sex, sexe, isexo, t, m",
+    "ocr_text_clean": ""
+  }
+]

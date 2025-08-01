@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.877091646194458,
+    "bbox_normalized": {
+      "ymin": 0.5821314454078674,
+      "xmin": 0.33904698491096497,
+      "ymax": 0.6222123503684998,
+      "xmax": 0.5527732968330383
+    },
+    "ocr_text": "surname, nom, apellidos, goodman",
+    "ocr_text_clean": "goodman"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8520457148551941,
+    "bbox_normalized": {
+      "ymin": 0.8070932626724243,
+      "xmin": 0.33515769243240356,
+      "ymax": 0.8446884155273438,
+      "xmax": 0.7228696942329407
+    },
+    "ocr_text": "date, of, date, expration, dexpiration, fecna, caducidad, l, de, 03, oct, 2008",
+    "ocr_text_clean": "03 oct 2008"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8471998572349548,
+    "bbox_normalized": {
+      "ymin": 0.694825291633606,
+      "xmin": 0.3398447632789612,
+      "ymax": 0.7314125299453735,
+      "xmax": 0.7090825438499451
+    },
+    "ocr_text": "date, of, birth, date, d, de, fecha, naissance, t, de, nacimiento, 15, feb, 1971",
+    "ocr_text_clean": "15 feb 1971"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.8357901573181152,
+    "bbox_normalized": {
+      "ymin": 0.5481326580047607,
+      "xmin": 0.6560500860214233,
+      "ymax": 0.5951313972473145,
+      "xmax": 0.9940053224563599
+    },
+    "ocr_text": "passpont, no, l, na, passeport, du, ino, pasapore, de, 008442636",
+    "ocr_text_clean": "008442636"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.8051347732543945,
+    "bbox_normalized": {
+      "ymin": 0.6553576588630676,
+      "xmin": 0.34462445974349976,
+      "ymax": 0.6974831223487854,
+      "xmax": 0.6988174319267273
+    },
+    "ocr_text": "lationality, inationalite, nacionalidad, united, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.7079728841781616,
+    "bbox_normalized": {
+      "ymin": 0.6191759705543518,
+      "xmin": 0.33780357241630554,
+      "ymax": 0.6557100415229797,
+      "xmax": 0.5834373235702515
+    },
+    "ocr_text": "given, names, l, prenoms, nombres, i, lynn",
+    "ocr_text_clean": "lynn"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6578309535980225,
+    "bbox_normalized": {
+      "ymin": 0.7249510288238525,
+      "xmin": 0.7715803384780884,
+      "ymax": 0.7725964784622192,
+      "xmax": 0.914082407951355
+    },
+    "ocr_text": "sex, sexe, sexo, l, f",
+    "ocr_text_clean": ""
+  }
+]

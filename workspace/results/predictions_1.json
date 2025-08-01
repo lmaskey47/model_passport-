@@ -1,0 +1,93 @@
+[
+  {
+    "class_id": 8,
+    "class_name": "surname",
+    "score": 0.8754565715789795,
+    "bbox_normalized": {
+      "ymin": 0.5804631114006042,
+      "xmin": 0.3332775831222534,
+      "ymax": 0.6210331320762634,
+      "xmax": 0.5562534928321838
+    },
+    "ocr_text": "surname, nom, apellidos, t, baldwin",
+    "ocr_text_clean": "baldwin"
+  },
+  {
+    "class_id": 1,
+    "class_name": "data_of_birth",
+    "score": 0.8550596833229065,
+    "bbox_normalized": {
+      "ymin": 0.694635808467865,
+      "xmin": 0.3386714458465576,
+      "ymax": 0.7317735552787781,
+      "xmax": 0.7063590288162231
+    },
+    "ocr_text": "date, of, birth, date, de, fecha, naissance, e, de, nacimiento, 23, mar, 1990",
+    "ocr_text_clean": "23 mar 1990"
+  },
+  {
+    "class_id": 2,
+    "class_name": "date_of_expiration",
+    "score": 0.8536775708198547,
+    "bbox_normalized": {
+      "ymin": 0.807425856590271,
+      "xmin": 0.33162492513656616,
+      "ymax": 0.8454334735870361,
+      "xmax": 0.7236878275871277
+    },
+    "ocr_text": "date, of, date, d, fecha, expiration, expirationt, l, de, caducidad, 24, oct, 2018",
+    "ocr_text_clean": "24 oct 2018"
+  },
+  {
+    "class_id": 3,
+    "class_name": "document_number",
+    "score": 0.8360489010810852,
+    "bbox_normalized": {
+      "ymin": 0.5498734712600708,
+      "xmin": 0.6562209725379944,
+      "ymax": 0.5955159664154053,
+      "xmax": 0.9935505986213684
+    },
+    "ocr_text": "asspont, no, to, no, du, passeport, de, pasaporie, 071465318",
+    "ocr_text_clean": "071465318"
+  },
+  {
+    "class_id": 5,
+    "class_name": "nationality",
+    "score": 0.8304063081741333,
+    "bbox_normalized": {
+      "ymin": 0.6547763347625732,
+      "xmin": 0.34235072135925293,
+      "ymax": 0.6970750093460083,
+      "xmax": 0.6977623701095581
+    },
+    "ocr_text": "vationality, nationalite, l, inacionalidad, inited, states, of, america",
+    "ocr_text_clean": "united states of america"
+  },
+  {
+    "class_id": 7,
+    "class_name": "sexe",
+    "score": 0.6626543998718262,
+    "bbox_normalized": {
+      "ymin": 0.7245138883590698,
+      "xmin": 0.7716304659843445,
+      "ymax": 0.7731125354766846,
+      "xmax": 0.9136707186698914
+    },
+    "ocr_text": "sex, isexe, sexo, f",
+    "ocr_text_clean": ""
+  },
+  {
+    "class_id": 4,
+    "class_name": "names",
+    "score": 0.5491105914115906,
+    "bbox_normalized": {
+      "ymin": 0.6190543174743652,
+      "xmin": 0.3300306797027588,
+      "ymax": 0.6542586088180542,
+      "xmax": 0.5852019786834717
+    },
+    "ocr_text": "given, names, l, prenoms, nombres, l, amy",
+    "ocr_text_clean": "amy"
+  }
+]
